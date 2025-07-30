@@ -85,14 +85,14 @@ Level 2 enhances the basic viewer with:
 ## 📌 How to Run Locally
 
 ### For Level 1:
-cd level1
-npm install
-npm run dev
+cd level1<br>
+npm install<br>
+npm run dev<br>
 
 ### For Level 2:
-cd level2
-npm install
-npm run dev
+cd level2<br>
+npm install<br>
+npm run dev<br>
 
 ## 📄 License
 © 2023 WSA. All rights reserved.
